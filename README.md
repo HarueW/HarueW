@@ -27,8 +27,9 @@ alt="mysql" width="45" height="45"/ ><img src="https://devicons.github.io/devico
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg" alt="JQuery.js" height="45" /> <br />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg" alt="JQuery.js" height="45" /> 
 <h3>And More!</h3>
+
 
 <h2>IDEs I use: </h2>
 <ul>
