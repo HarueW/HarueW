@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm DevepCoder(not my real name)</h1>
 <h3>Software and Full Stack developer  <img src="https://i.imgur.com/uoimZSJ.gif" height="30" /> and UI/UX designer. I'm also a cybersecurity advanced.</h3>
-<h4>🔭 Currently working on some projects(they will out public soon)
+<h4>🔭 Currently working on some projects(they will out public soon)</h4>
 <style>
  img { float: left; }
 </style>
