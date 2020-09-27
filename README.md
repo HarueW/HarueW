@@ -1,9 +1,7 @@
 <h1>Hi 👋, I'm DevepCoder(not my real name)</h1>
 <h3>Software and Full Stack developer  <img src="https://i.imgur.com/uoimZSJ.gif" height="30" /> and UI/UX designer. I'm also a cybersecurity advanced.</h3>
 <h4>🔭 Currently working on some projects(they will out public soon)</h4>
-<style>
- img { float: left; }
-</style>
+
 <h2>Programming Languages i know :</h2>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45" />
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
@@ -30,7 +28,9 @@ alt="mysql" width="45" height="45"/ ><img src="https://devicons.github.io/devico
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg" alt="JQuery.js" height="45" /> 
 <h3>And More!</h3>
 
-
+<style>
+ img { float: left; }
+</style>
 <h2>IDEs I use: </h2>
 <ul>
  <li>JetBrains Rider</li>
