@@ -6,7 +6,9 @@
 
 <br>
 
-
+<style>
+ img { float: left; }
+</style>
 <h2>IDEs I use: </h2>
 <ul>
  <li>JetBrains Rider</li>
