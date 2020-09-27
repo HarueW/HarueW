@@ -1,6 +1,5 @@
 <h1>Hi 👋, I'm DevepCoder(not my real name)</h1>
-<h3>Software and Full Stack developer  <img src="https://i.imgur.com/uoimZSJ.gif
-" height="30" /> and UI/UX designer. I'm also a cybersecurity advanced.</h3>
+<h3>Software and Full Stack developer  <img src="https://i.imgur.com/uoimZSJ.gif" height="30" /> and UI/UX designer. I'm also a cybersecurity advanced.</h3>
 <h4>🔭 Currently working on some projects(they will out public soon)
 
 
@@ -42,6 +41,4 @@ And More!
 
 
 <p>My Discord is DevepCoder#0478</p>
-<img src="https://discord.com/assets/3abe9ce5a00cc24bd8aae04bf5968f4c.png" onclick="window.open('https://steamcommunity.com/profiles/76561199019160534', '_blank')" height="30px" alt="Reddit"/>
-<img src="https://discord.com/assets/f09c1c70a67ceaaeb455d163f3f9cbb8.png" alt="Steam" onclick="window.open('https://www.reddit.com/u/DevepCoder', '_blank')" height="30px"/>
-<img src="https://discord.com/assets/f0655521c19c08c4ea4e508044ec7d8c.png" alt="Spotify" onclick="window.open('https://open.spotify.com/user/dex5dx0rsr4vcx3oqs0ip2hlw', '_blank')" height="30px"/>
+<img src="https://discord.com/assets/3abe9ce5a00cc24bd8aae04bf5968f4c.png" onclick="window.open('https://steamcommunity.com/profiles/76561199019160534', '_blank')" height="30px" alt="Reddit"/><img src="https://discord.com/assets/f09c1c70a67ceaaeb455d163f3f9cbb8.png" alt="Steam" onclick="window.open('https://www.reddit.com/u/DevepCoder', '_blank')" height="30px"/><img src="https://discord.com/assets/f0655521c19c08c4ea4e508044ec7d8c.png" alt="Spotify" onclick="window.open('https://open.spotify.com/user/dex5dx0rsr4vcx3oqs0ip2hlw', '_blank')" height="30px"/>
