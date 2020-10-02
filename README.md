@@ -14,7 +14,7 @@
 
 
 <div style="float: left;">
-<h2>Programming Languages i know :</h2>
+<h2>Everything i know :</h2>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45" />
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
 <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="45" height="45" />
