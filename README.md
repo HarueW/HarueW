@@ -53,9 +53,6 @@ alt="mysql" width="45" height="45"/ ><img src="https://devicons.github.io/devico
 </ul>
 
 
-<h2>Stats : </h2>
-<img src="https://github-readme-stats.vercel.app/api?username=DevepCoder&count_private=true&show_icons=true">
-
 <div style="float: left;">
 <h2>Social Networks I use:</h2>
 <p>My Discord is DevepCoder#0478</p>
