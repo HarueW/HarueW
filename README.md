@@ -57,7 +57,7 @@ alt="mysql" width="45" height="45"/ ><img src="https://devicons.github.io/devico
 <h2>Stats: </h2>
 
 
-![deve_stats](https://github-readme-stats.vercel.app/api?username=devepcoder&show_icons=true&theme=dracula&count_private=true)
+![deve_stats](https://github-readme-stats.vercel.app/api?username=devepcoder&show_icons=true&theme=dracula&hide=prs&count_private=true)
 
 
 <br>
