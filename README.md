@@ -9,7 +9,7 @@
 
 
 <h1>Hi 👋, I'm DevepCoder(not my real name)</h1>
-<h3>Software and Full Stack developer  <img src="https://i.imgur.com/uoimZSJ.gif" height="30" /> and UI/UX designer. I'm also a cybersecurity advanced.</h3>
+<h3>Software and Full Stack developer <img src="https://i.imgur.com/uoimZSJ.gif" height="20.375em" style="position:absolute !important;bottom:0 !important;"> and UI/UX designer. I'm also a cybersecurity advanced.</h3>
 <h4>🔭 Currently working on some projects(they will out public soon)</h4>
 
 
