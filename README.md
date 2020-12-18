@@ -51,6 +51,10 @@ alt="mysql" width="45" height="45"/ ><img src="https://devicons.github.io/devico
  <li>JetBrains GoLand</li>
  <li>ETC....</li>
 </ul>
+<br>
+<h2>Commits</h2>
+![deve_commits](https://github-profile-trophy.vercel.app/?username=DevepCoder&title=Commit)
+<br>
 
 
 <br>
