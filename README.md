@@ -59,7 +59,6 @@ alt="mysql" width="45" height="45"/ ><img src="https://devicons.github.io/devico
 ![deve_commits](https://github-profile-trophy.vercel.app/?username=DevepCoder&title=Commit)
 
 
-
 <br>
 
 
