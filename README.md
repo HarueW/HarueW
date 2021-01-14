@@ -29,7 +29,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45" /> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/ >
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="45" height="45" />
@@ -48,12 +48,11 @@
 <h3>And More!</h3>
 <h2>IDEs I use: </h2>
 <ul>
- <li>JetBrains Rider</li>
- <li>JetBrains WebStorm</li>
- <li>JetBrains PyCharm</li>
- <li>JetBrains Intellij</li>
- <li>JetBrains GoLand</li>
- <li>ETC....</li>
+ <li>Visual Studio 2019 Professional.</li>
+ <li>JetBrains WebStorm.</li>
+ <li>JetBrains PyCharm.</li>
+ <li>JetBrains Intellij Idea.</li>
+ <li>JetBrains CLion.</li>
 </ul>
 <br>
 <h2>Commits</h2>
