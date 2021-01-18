@@ -79,5 +79,14 @@
 <a href="https://steamcommunity.com/profiles/76561199019160534"><img src="https://discord.com/assets/3abe9ce5a00cc24bd8aae04bf5968f4c.png" onclick="window.open('https://steamcommunity.com/profiles/76561199019160534', '_blank')" height="30px" alt="Reddit" width="30px"/></a><a href="https://www.reddit.com/u/DevepCoder"><img src="https://discord.com/assets/f09c1c70a67ceaaeb455d163f3f9cbb8.png" alt="Steam" onclick="window.open('https://www.reddit.com/u/DevepCoder', '_blank')" height="30px" width="30px"/></a><a href="https://open.spotify.com/user/dex5dx0rsr4vcx3oqs0ip2hlw"><img src="https://discord.com/assets/f0655521c19c08c4ea4e508044ec7d8c.png" alt="Spotify" onclick="window.open('https://open.spotify.com/user/dex5dx0rsr4vcx3oqs0ip2hlw', '_blank')" height="30px" width="30px"/></a>
 </div>
 
+
+<br><br>
+<details>
+ <summary>Read if cute</summary></q>
+
+ u cute<br>
+ ![h](https://cdn.discordapp.com/emojis/740291184223584437.gif) ![h](https://cdn.discordapp.com/emojis/740291184223584437.gif) ![h](https://cdn.discordapp.com/emojis/740291184223584437.gif) ![h](https://cdn.discordapp.com/emojis/740291184223584437.gif) ![h](https://cdn.discordapp.com/emojis/740291184223584437.gif) ![h](https://cdn.discordapp.com/emojis/740291184223584437.gif) ![h](https://cdn.discordapp.com/emojis/740291184223584437.gif) ![h](https://cdn.discordapp.com/emojis/740291184223584437.gif) ![h](https://cdn.discordapp.com/emojis/740291184223584437.gif) ![h](https://cdn.discordapp.com/emojis/740291184223584437.gif) ![h](https://cdn.discordapp.com/emojis/740291184223584437.gif) ![h](https://cdn.discordapp.com/emojis/740291184223584437.gif) ![h](https://cdn.discordapp.com/emojis/740291184223584437.gif) ![h](https://cdn.discordapp.com/emojis/740291184223584437.gif) ![h](https://cdn.discordapp.com/emojis/740291184223584437.gif) ![h](https://cdn.discordapp.com/emojis/740291184223584437.gif) ![h](https://cdn.discordapp.com/emojis/740291184223584437.gif) ![h](https://cdn.discordapp.com/emojis/740291184223584437.gif) ![h](https://cdn.discordapp.com/emojis/740291184223584437.gif) ![h](https://cdn.discordapp.com/emojis/740291184223584437.gif) ![h](https://cdn.discordapp.com/emojis/740291184223584437.gif) ![h](https://cdn.discordapp.com/emojis/740291184223584437.gif) ![h](https://cdn.discordapp.com/emojis/740291184223584437.gif) ![h](https://cdn.discordapp.com/emojis/740291184223584437.gif) ![h](https://cdn.discordapp.com/emojis/740291184223584437.gif) ![h](https://cdn.discordapp.com/emojis/740291184223584437.gif) ![h](https://cdn.discordapp.com/emojis/740291184223584437.gif) ![h](https://cdn.discordapp.com/emojis/740291184223584437.gif) ![h](https://cdn.discordapp.com/emojis/740291184223584437.gif) ![h](https://cdn.discordapp.com/emojis/740291184223584437.gif) ![h](https://cdn.discordapp.com/emojis/740291184223584437.gif) ![h](https://cdn.discordapp.com/emojis/740291184223584437.gif) 
+</details>
+
 </body>
 </html>
