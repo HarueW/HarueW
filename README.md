@@ -12,6 +12,7 @@
 <h1>Hi 👋, I'm DevepCoder(not my real name)</h1>
 <h3>Software and Full Stack developer <img src="https://i.imgur.com/uoimZSJ.gif" height="20.375em" style="position:absolute !important;bottom:0 !important;"> and UI/UX designer. I'm also a cybersecurity advanced.</h3>
 <h4>🔭 Currently working on some projects(they will out public soon)</h4>
+<h4>⭐ Fun fact: Sunflowers follows the sun as it moves across the sky, but their lunar counterparts only open after nightfall or on cloudy days.</h4>
 
 <h1>Full Introduction</h1>
 <h5>I'm Zeiad, Experienced Software Engineer with a demonstrated history of working in the telecommunications industry. Skilled in Python, C/C++, jQuery, Back-End Web Development,Javascript , Typescript, and more. Strong engineering professional with a Master of Computer Applications - MCA focused in Computer Software Engineering from Ain Shams University.<h5>
