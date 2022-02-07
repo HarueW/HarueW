@@ -15,7 +15,7 @@
 <h4>⭐ Fun fact: Sunflowers follows the sun as it moves across the sky, but their lunar counterparts only open after nightfall or on cloudy days.</h4>
 
 <h1>Full Introduction</h1>
-<h5>I'm Zeiad, Experienced Software Engineer with a demonstrated history of working in the telecommunications industry. Skilled in Python, C/C++, jQuery, Back-End Web Development,Javascript , Typescript, and more. Strong engineering professional with a Master of Computer Applications - MCA focused in Computer Software Engineering from Ain Shams University.<h5>
+<h5>I'm harue, Experienced Software Engineer with a demonstrated history of working in the telecommunications industry. Skilled in Python, C/C++, jQuery, Back-End Web Development,Javascript , Typescript, and more. Strong engineering professional with a Master of Computer Applications - MCA focused in Computer Software Engineering<h5>
 <div style="float: left;">
 <h2>Everything i know :</h2>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45" />
