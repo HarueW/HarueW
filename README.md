@@ -59,7 +59,7 @@
 <h2>Commits</h2>
 
 
-![deve_commits](https://github-profile-trophy.vercel.app/?username=DevepCoder&title=Commit)
+![deve_commits](https://github-profile-trophy.vercel.app/?username=HarueW&title=Commit)
 
 
 <br>
@@ -69,7 +69,7 @@
 <h2>Stats: </h2>
 
 
-![deve_stats](https://github-readme-stats.vercel.app/api?username=devepcoder&show_icons=true&theme=dracula&hide=prs,contribs&count_private=true)
+![deve_stats](https://github-readme-stats.vercel.app/api?username=haruew&show_icons=true&theme=dracula&hide=prs,contribs&count_private=true)
 
 <br>
 
